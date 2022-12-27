@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiahCoultrup
 - 👀 I’m interested in coding, baking and art
-- 🌱 I’m currently learning JavaScript, SQL, and Cyber Security
+- 🌱 I’m currently learning JavaScript, SQL, bash scripting, CCNA, Linux for dummies, and Cyber Security
 - 💞️ I’m looking to collaborate on a nice coding project
 - 📫 How to reach me email: sighmlis@gmail.com
 
